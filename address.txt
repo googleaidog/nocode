@@ -1,1 +1,1 @@
-https://e2.huiyuan.me/device/register,https://e11.huiyuan.me/device/register
+https://e1.huiyuan.me/device/register
