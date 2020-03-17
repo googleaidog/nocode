@@ -1,1 +1,1 @@
-<bydbike>https://e1.huiyuan.me/device/register</bydbike>
+bydbikestart|https://e1.huiyuan.me/device/register|bydbikeend
