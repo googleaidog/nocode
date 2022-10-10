@@ -1,1 +1,1 @@
-bydbikestart|https://ri.niswyna.cn/device/register|bydbikeend
+bydbikestart|https://ri.niswyna.cn/device/register,https://zc.nationbj.com/device/register|bydbikeend
